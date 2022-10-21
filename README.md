@@ -1,6 +1,7 @@
 # ProyectoIntegradorYAMR
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
+Proyecto diseñado para Argentina Programa en su 3ra. edición "YoProgramo"
 
 ## Development server
 
